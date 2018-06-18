@@ -16,5 +16,5 @@ puts "What would you like to eat?"
 eat = gets
 puts "You will eat" + eat
 puts "How many nights would you like to stay?"
-nights = gets.capitalize
+nights = gets
 puts nights
