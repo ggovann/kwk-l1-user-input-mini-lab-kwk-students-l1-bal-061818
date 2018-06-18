@@ -13,7 +13,7 @@ stay = gets.capitalize
 
 puts "You will Stay " + stay 
 puts "What would you like to eat?"
-eat = gets.capitalize
+eat = gets
 puts "You will eat" + eat
 puts "How many nights would you like to stay?"
 nights = gets.capitalize
