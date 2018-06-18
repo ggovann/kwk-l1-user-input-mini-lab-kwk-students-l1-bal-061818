@@ -12,7 +12,7 @@ stay = gets.capitalize
 # Lastly, puts it all back by interpolating these values in a string.
 
 puts "You will Stay " + stay 
-puts "Where would you like to eat?"
+puts "What would you like to eat?"
 eat = gets.capitalize
 puts "You will eat" + eat
 puts "How many nights would you like to stay?"
